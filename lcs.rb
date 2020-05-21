@@ -1,5 +1,3 @@
-require 'pry'
-
 class Lcs
   EMPTY_STRING_SHIFT = 1
 
